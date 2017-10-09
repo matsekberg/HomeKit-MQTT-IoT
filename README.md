@@ -1,5 +1,5 @@
-# MQTT topics for IoT
+#HomeKit, MQTT and IoT
 
-This is where I document the philosophy and specification of how I use MQTT in my home automation and Github projects.
+This is where I document my IoT architecture and design. 
 
-Head on to the Wiki https://github.com/matsekberg/MQTT-topics-for-IoT/wiki
+Head on to the Wiki https://github.com/matsekberg/HomeKit-MQTT-IoT/wiki
